@@ -1,5 +1,4 @@
-# 💫 About Me:
-Tenho um técnico em desenvolvimento de sistemas;<br>Estou estudando formação front-end pela udemy;<br>Estou à procura de um emprego nessa área;<br>Aprendo rápido e tenho boa vontade!
+Técnico em desenvolvimento de sistemas;<br>Estou estudando formação front-end pela udemy;<br>Estou à procura de um emprego nessa área;<br>Aprendo rápido e tenho boa vontade!
 
 
 ## 🌐 Socials:
